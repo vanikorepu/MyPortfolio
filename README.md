@@ -7,11 +7,11 @@ Introduction
 This is a simple yet elegant website created with the help of a free Bootstrap template. It's  responsive and easy to adapt for your own purposes.  A working email contact is included.
 
 Technologies Used:
-HTML5 & CSS5
-Bootstrap 4
-JavaScript
-jQuery JavaScript Library v3.2.1
-Font Awesome
+HTML5 & CSS5,
+Bootstrap 4,
+JavaScript,
+jQuery JavaScript Librar,
+Font Awesome,
 Google Fonts
 
 Sources:
