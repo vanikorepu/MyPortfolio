@@ -1,0 +1,11 @@
+html { 
+  background: url(.../image/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.content{
+	background-color: rgba(0,0,0,0.7);
+}
