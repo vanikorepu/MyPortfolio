@@ -4,7 +4,7 @@ My personal Website
 A single-page static website with a fixed sidebar, smooth scrolling navigation, and content sections. Great for an elegant resume or portfolio. Mobile-friendly.
 
 Introduction
-This is a simple yet elegant website created with the help of a free Bootstrap template. It's  responsive and easy to adapt for your own purposes.  A working email contact is included.
+This is a simple yet elegant website created with the help of a free Bootstrap template. It's  responsive and easy to adapt for your own purposes.  A working email contact is included. I included a scroll down feature as well.
 
 Technologies Used:
 HTML5 & CSS5,
